@@ -31,7 +31,8 @@
 ?>
 
 <div class="main">
-    <div>Kontakt</div>
+    <div>Kontakt
+    Her er lidt mere tekst</div>
 </div>
 
 
